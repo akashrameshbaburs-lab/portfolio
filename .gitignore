@@ -1,0 +1,11 @@
+# The five projects are independent git repositories — not tracked here.
+scalex/
+queueease/
+deployhub/
+documind/
+streamguard/
+
+# Common junk
+Thumbs.db
+Desktop.ini
+*.log
